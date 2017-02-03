@@ -1,5 +1,5 @@
 
-ECE 4750 Tutorial 3: PyMTL Hardware Modeling Framework
+ECE 4750 (Cornell University) Tutorial 3: PyMTL Hardware Modeling Framework
 ==========================================================================
 
 This repository contains source code for ECE 4750 Tutorial 3 on the PyMTL
